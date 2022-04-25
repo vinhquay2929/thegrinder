@@ -80,7 +80,7 @@
         }
     }
 
-    if($flag1 == 1 && $flag2 == 1 && $flag3 == 1)
+    if($flag_1 == 1 && $flag_2 == 1 && $flag_3 == 1)
     {
       if(isset($_SESSION['cart']))
       {
